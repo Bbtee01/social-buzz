@@ -1,6 +1,6 @@
 # SOCIAL BUZZ
 
-![](download(1).png)
+![](social_buzz.png)
 
 ## INTRODUCTION
 I participated in the Accenture North America Virtual Experience Program via Forage, which provided me with the opportunity to work as a data analyst for a virtual organization called Social Buzz. In this project I will discuss my role and responsibilities in the program and provide insights into the outcomes achieved.
@@ -21,15 +21,20 @@ My primary role was to gather, analyze and intepret data to help Social Buzz mak
 ## TOOLS USED
 Microsoft Excel, Microsoft PowerPoint, Microsoft Power BI.
 
+## DATA EXPLORATION
+Data exploration was done on the three datasets (Content, Reaction And Reaction Type). Exploration allows for a deeper understanding of a dataset, making it easier to navigate and use the data later. The better analyst know the data i'm working with, the better the analysis will be.
+
+![](data exploration.JPG)
+
 ## DATA CLEANING
 Data cleaning is the process of detecting and correcting inaccurate data set. Identifying the errors, validating the data will increase productivity and allow high-quality information in decision-making. The cleaning was  done by:
 -	Removing rows that have values which are missing,
 -	Changing the data type of some values within a column, and 
 -	Removing columns which are not relevant to this project.
 
-Uncleaned Data                                             |        Cleaned Data
-:---------------------------------------------------------:|:--------------------------------------------------------------|
-![](uncleaned.JPG)                                         |         ![](cleaned.JPG) 
+Uncleaned Data                          |        Cleaned Data
+:--------------------------------------:|:-----------------------------------------------|
+![](uncleaned.JPG                       |         ![](cleaned.JPG) 
 
 ## DATA TRANSFORMATION
 Transformation is the process of converting data from one structure into another structure or format. I did this to help me improve the quality, consistency and usability of the data.
@@ -70,5 +75,8 @@ And also the most common month for users to post within was January. This aligns
 ## CONCLUSION AND RECOMMENDATION
 1.	Animals and science are the two most popular categories of content, showing that people enjoy “real-life” and factual” content the most.
 2.	I also found that food was a common theme amongst popular content and the most popular food category was healthy eating. This could be a signal to show the types of people that are using your platform, and you could use this insight to boost engagement even further. For example, you could run a campaign with content focused on this category or work with healthy eating brands to promote content.
+
+![](thank_you.png)
+
 
 
